@@ -11,8 +11,7 @@ Languages: HTML, CSS, JavaScript
 Browser: Chrome/Edge/Firefox (for testing)
 📌 Steps and Implementation
 1. Create a Simple Webpage Using HTML
-Built a basic structure using <!DOCTYPE html>, <html>, <head>, and <body>.
-Added content such as headings (<h1>), paragraphs (<p>), image (<img>), and a hyperlink (<a>).
+Built a basic structure using content such as headings  paragraphs , image , and a hyperlink .
 
 2. Style the Webpage Using CSS
 Used external CSS to:
